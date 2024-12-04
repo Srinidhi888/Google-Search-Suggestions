@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  background-size: cover;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 20px;
+}
